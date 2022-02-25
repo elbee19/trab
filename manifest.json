@@ -1,0 +1,22 @@
+{
+    "name": "TRAB - Tweet Reporter And Blocker",
+    "description": "Gives you a one-click way to report a tweet as spam and block the creator's account",
+    "version": "1.0",
+    "content_scripts": [
+        {
+            "matches": [
+                "http://twitter.com/*",
+                "https://twitter.com/*"
+            ],
+            "run_at": "document_start",
+            "js": [
+                "jquery-3.6.0.min.js",
+                "script.js"
+            ],
+            "css": [
+                "style.css"
+            ]
+        }
+    ],
+    "manifest_version": 3
+}

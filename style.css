@@ -1,0 +1,19 @@
+.one-click-block-report-toast-container {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  width: auto;
+}
+
+.one-click-block-report-toast {
+  background-color: white;
+  margin: 0 auto;
+  text-align: center;
+
+  width: fit-content;
+  padding: 5px 10px;
+  margin-top: 5px;
+  border-radius: 10px;
+  font-family: "TwitterChirp";
+}
