@@ -17,6 +17,8 @@ TRAB is being reviewed by the Chrome store for an official listing. In the meanw
 
 ## Screenshot
 
+<img src="trab_usage.gif" width="600">
+
 <img src="TRAB_screenshot.png" width="600" height="300">
 
 ## License
