@@ -13,7 +13,9 @@ TRAB is a Chrome extension that gives you a single button to do two things with 
 
 ## Installation
 
-TRAB is being reviewed by the Chrome store for an official listing. In the meanwhile follow [this](https://developer.chrome.com/docs/extensions/mv3/getstarted/#unpacked) link for instructions on how to Load an unpacked chrome extension.
+Recommended: TRAB can be found on the Chrome store [here](https://chrome.google.com/webstore/detail/trab-tweet-reporter-and-b/bahkpblcfiffamfljnfjeablplgnjnkg?hl=en-US)
+
+Alternatively, follow [this](https://developer.chrome.com/docs/extensions/mv3/getstarted/#unpacked) link for instructions on how to 'Load an unpacked chrome extension' to download the source code from Github and install the extension.
 
 ## Screenshot
 
